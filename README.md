@@ -1,4 +1,4 @@
-# Guarini-s-Problem
+# Guarini's-Problem
 
 Six Knights problem:
 
