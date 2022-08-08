@@ -1,7 +1,7 @@
 # 1 denotes black horses
 # 2 denotes white horses
 # 0 denotes empty space
-#
+
 counter = 0
 
 
