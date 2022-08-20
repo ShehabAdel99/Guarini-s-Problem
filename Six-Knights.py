@@ -4,7 +4,7 @@
 
 counter = 0
 
-
+#
 def printArr(arr):
     for r in arr:
         for c in r:
